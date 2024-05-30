@@ -74,7 +74,7 @@ python app.py
 
 ## Usage
 
-1. Check Hot Offers:
+1. Check Popular Movies:
 
 - Enter a year.
 - Click the "Check" button to view the list of popular movies for that year.
