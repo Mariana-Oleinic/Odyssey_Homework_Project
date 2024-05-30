@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import font
 from data_processing import *
+from scraper import extract_movie_data_for_year
 
 
 root = tk.Tk()

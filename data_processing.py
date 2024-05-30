@@ -1,6 +1,5 @@
 import re
 import json
-from scraper import extract_movie_data_for_year
 
 
 def is_type_and_duration(text):
